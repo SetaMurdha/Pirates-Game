@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: b41ead927dce4d64e93febe468fda8c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1970661288565531396
+    second: chests_byBatuhanK_0
+  - first:
+      213: -8190066628786049496
+    second: chests_byBatuhanK_1
+  - first:
+      213: -8955036557376004722
+    second: chests_byBatuhanK_2
+  - first:
+      213: -4692015333880860352
+    second: chests_byBatuhanK_3
+  - first:
+      213: 6957706854020465131
+    second: chests_byBatuhanK_4
+  - first:
+      213: 7590137561355631807
+    second: chests_byBatuhanK_5
+  - first:
+      213: 5848754140670389501
+    second: chests_byBatuhanK_6
+  - first:
+      213: 8218110256961149072
+    second: chests_byBatuhanK_7
+  - first:
+      213: -5802696446991880537
+    second: chests_byBatuhanK_8
+  - first:
+      213: 8770493562430260056
+    second: chests_byBatuhanK_9
+  - first:
+      213: 989240426702985118
+    second: chests_byBatuhanK_10
+  - first:
+      213: -8376436167965600207
+    second: chests_byBatuhanK_11
+  - first:
+      213: -3692603246905622143
+    second: chests_byBatuhanK_12
+  - first:
+      213: -6296754435699705300
+    second: chests_byBatuhanK_13
+  - first:
+      213: 2375379295242461852
+    second: chests_byBatuhanK_14
+  - first:
+      213: -9115120394549845452
+    second: chests_byBatuhanK_15
+  - first:
+      213: 7624649514564923437
+    second: chests_byBatuhanK_16
+  - first:
+      213: 4116060128267702623
+    second: chests_byBatuhanK_17
+  - first:
+      213: -7697418402038710670
+    second: chests_byBatuhanK_18
+  - first:
+      213: 6164525359840548088
+    second: chests_byBatuhanK_19
+  - first:
+      213: -6720785006414076117
+    second: chests_byBatuhanK_20
+  - first:
+      213: -1202659655293486664
+    second: chests_byBatuhanK_21
+  - first:
+      213: 7397598117402647204
+    second: chests_byBatuhanK_22
+  - first:
+      213: 1742632785926759187
+    second: chests_byBatuhanK_23
+  - first:
+      213: -1770879445903648897
+    second: chests_byBatuhanK_24
+  - first:
+      213: 7081068866082340844
+    second: chests_byBatuhanK_25
+  - first:
+      213: 2338811705773594597
+    second: chests_byBatuhanK_26
+  - first:
+      213: 4664338227414444763
+    second: chests_byBatuhanK_27
+  - first:
+      213: 6266149390577247245
+    second: chests_byBatuhanK_28
+  - first:
+      213: -560957389946666526
+    second: chests_byBatuhanK_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chests_byBatuhanK_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1072cffdc6a4e0800000000000000
+      internalID: -1970661288565531396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e2d604bc9075e80800000000000000
+      internalID: -8190066628786049496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d57f662b159b380800000000000000
+      internalID: -8955036557376004722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0417857c9ec92eeb0800000000000000
+      internalID: -4692015333880860352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1c03d258dbe8060800000000000000
+      internalID: 6957706854020465131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb3f4d5e5955960800000000000000
+      internalID: 7590137561355631807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce04527e2fa2150800000000000000
+      internalID: 5848754140670389501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d92fbcb79c0270800000000000000
+      internalID: 8218110256961149072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea0a1535ea87fa0800000000000000
+      internalID: -5802696446991880537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 67
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853818d4d6d07b970800000000000000
+      internalID: 8770493562430260056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9756174dec7abd00800000000000000
+      internalID: 989240426702985118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1361dac7fabe0cb80800000000000000
+      internalID: -8376436167965600207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1818cb349ec31ccc0800000000000000
+      internalID: -3692603246905622143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2af04ec33f6d98a0800000000000000
+      internalID: -6296754435699705300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92aebb32ea07f020800000000000000
+      internalID: 2375379295242461852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43220fd8b46908180800000000000000
+      internalID: -9115120394549845452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203f7c165230d960800000000000000
+      internalID: 7624649514564923437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519b8bf0ee2f1930800000000000000
+      internalID: 4116060128267702623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e7deafeb64d2590800000000000000
+      internalID: -7697418402038710670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 35
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4de2a572bcc8550800000000000000
+      internalID: 6164525359840548088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27eae815a9fab2a0800000000000000
+      internalID: -6720785006414076117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9b98c5a6b4f4fe0800000000000000
+      internalID: -1202659655293486664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa12ea2b4c89a660800000000000000
+      internalID: 7397598117402647204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3132d1339431f2810800000000000000
+      internalID: 1742632785926759187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775fd6c6829c67e0800000000000000
+      internalID: -1770879445903648897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7ae8dd92054260800000000000000
+      internalID: 7081068866082340844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e71927dad0257020800000000000000
+      internalID: 2338811705773594597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda2055b7ee0bb040800000000000000
+      internalID: 4664338227414444763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0423e6dba5d5f650800000000000000
+      internalID: 6266149390577247245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chests_byBatuhanK_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14916d9341738f0800000000000000
+      internalID: -560957389946666526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
