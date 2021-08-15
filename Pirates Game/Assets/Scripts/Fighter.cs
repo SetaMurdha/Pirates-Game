@@ -4,15 +4,37 @@ using UnityEngine;
 
 public class Fighter : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public int hitpoint = 10;
+    public int maxHitPoint = 10;
+    public float pushRecoverySpeed = 0.2f;
+
+    protected float immuneTime = 1.0f;
+    protected float lastImmune;
+
+    protected Vector3 pushDirection;
+
+    protected virtual void ReceiveDamage(Damage dmg)
     {
-        
+        if(Time.time - lastImmune > immuneTime)
+        {
+            lastImmune = Time.time;
+            hitpoint -= dmg.damageAmount;
+            pushDirection = (transform.position - dmg.oringin).normalized * dmg.pushForce;
+
+            GameManager.instance.ShowText(dmg.damageAmount.ToString(), 55, Color.red, transform.position, Vector3.zero, 0.5f);
+
+            if(hitpoint <= 0)
+            {
+                hitpoint = 0;
+                Death();
+            }
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    protected virtual void Death()
     {
-        
+
     }
+
+
 }
