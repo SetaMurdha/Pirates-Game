@@ -25,6 +25,20 @@ public abstract class Mover : Fighter
 
         moveDelta = new Vector3(input.x * xSpeed, input.y * ySpeed, 0);
 
+        if (moveDelta.x > 0)
+        {
+            transform.localScale = Vector3.one;
+
+        }
+        else if (moveDelta.x < 0)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
+
+        moveDelta += pushDirection;
+
+        pushDirection = Vector3.Lerp(pushDirection, Vector3.zero, pushRecoverySpeed);
+
         hit = Physics2D.BoxCast(transform.position, bxcldr.size, 0, new Vector2(0, moveDelta.y), Mathf.Abs(moveDelta.y * Time.deltaTime), LayerMask.GetMask("Actor", "Blocking"));
         if (hit.collider == null)
         {
@@ -36,17 +50,6 @@ public abstract class Mover : Fighter
         {
             transform.Translate(moveDelta.x * Time.deltaTime, 0, 0);
         }
-
-        if (moveDelta.x > 0)
-        {
-            transform.localScale = Vector3.one;
-
-        }
-        else if (moveDelta.x < 0)
-        {
-            transform.localScale = new Vector3(-1, 1, 1);
-        }
-
 
     }
 }
