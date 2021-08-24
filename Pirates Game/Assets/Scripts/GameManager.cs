@@ -27,6 +27,8 @@ public class GameManager : MonoBehaviour
 
     public Char player;
 
+    public FloatingTextManager floatingText;
+
     public int skor;
     public int experience;
 
@@ -57,5 +59,10 @@ public class GameManager : MonoBehaviour
         Debug.Log("Load State");
     }
 
+
+    public void ShowText(string msg, int fontSize, Color color, Vector3 position, Vector3 motion, float duration)
+    {
+        floatingText.Show(msg, fontSize, color, position, motion, duration);
+    }
 
 }

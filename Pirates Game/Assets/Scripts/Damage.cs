@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Damage : MonoBehaviour
+public struct Damage 
 {
     public Vector3 oringin;
     public int damageAmount;
