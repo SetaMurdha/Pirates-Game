@@ -5,6 +5,7 @@ using UnityEngine;
 public class Chest : Collectable
 {
     public Sprite emptyChest;
+    public GameObject soal;
     public int skor = 10;
 
     protected override void onCollect()
@@ -13,7 +14,9 @@ public class Chest : Collectable
         {
             collected = true;
             GetComponent<SpriteRenderer>().sprite = emptyChest;
+            soal.SetActive(true);
         }
         
     }
+
 }
